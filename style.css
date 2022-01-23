@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(155, 155, 30);
+   
+}
+header{
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;
+    
+}
+section{
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+#n{
+    font-size: 15px;
+}
+#seltab{
+    width: auto;
+}
+footer{
+    text-align: center;
+    margin-top: 20px;
+}
